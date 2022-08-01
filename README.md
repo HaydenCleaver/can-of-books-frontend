@@ -2,7 +2,7 @@
 
 **Author**: AJ Harris, Hayden Cleaver
 <br>
-**Version**: 1.1.0 (increment the patch/fix version number if you make more commits past your first submission)
+**Version**: 1.2.0 (increment the patch/fix version number if you make more commits past your first submission)
 
 ## Overview
 
@@ -26,6 +26,9 @@ React, React-Bootstrap, Javascript, HTML, CSS, Axios
 
 07-31-2022 7:00pm - Carousel feature is rendered on page.  Shows stored books and their relevant data.
 
+07-31-2022 10:00pm - Books can now be added by the user with a modal form.
+
+07-31-2022 11:45pm - Books can now be deleted by the user.
 <!-- Use this area to document the iterative changes made to your application as each feature is successfully implemented. Use time stamps. Here's an example:
 
 01-01-2001 4:59pm - Application now has a fully-functional express server, with a GET route for the location resource. -->
@@ -54,9 +57,21 @@ Estimate of time needed to complete: 2 hr
 
 Start time: 8:00 pm
 
-Finish time: 
+Finish time: 10:00 pm
 
-Actual time needed to complete: 
+Actual time needed to complete:  2 hrs
+
+## Feature 3: Delete Books
+
+Estimate of time needed to complete: 1 hr
+
+Start time: 10:00
+
+Finish time: 1:45
+
+Actual time needed to complete: 1 hr 45 min
+
+
 ## Team Agreement
 
 ### Logistics
